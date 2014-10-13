@@ -16,10 +16,11 @@ A [Brackets](https://github.com/adobe/brackets) simple extension that open Devel
 - Select **Help** > **Show Developer Tools in default browser** from main menu or use <kbd>F11</kbd> on your keyboard
 - Click on the link on the page that opens.
 
-![Screenshot](screenshot.png)
+![Screenshot](how.gif)
 
 
 <br />
-### Version History
+### Changelog
 
-13/10/2014 v1.0.0 - Release
+####1.0.0
+- Initial release.
