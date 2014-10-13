@@ -16,9 +16,8 @@ A [Brackets](https://github.com/adobe/brackets) simple extension that open Devel
 - Select **Help** > **Show Developer Tools in default browser** from main menu or use <kbd>F11</kbd> on your keyboard
 - Click on the link on the page that opens.
 
-![Screenshot](https://downloader-spb2.disk.yandex.ru/rpreview/487d8d730656201fc6fca1379e436884/mpfs/l5t3dsnn9PymrOZQyPeKykEBSojaRiKLkl6EIqgYVgb0ROpfQxQj8qdgweboCgIqfskWCgjOhREBqqp1E7uQFQ==?uid=0&filename=howgif&disposition=inline&hash=&limit=0&content_type=image%2Fgif&size=XXL&crop=0&rtoken=b0fedf7860b91c9da1f53e395697b88b&rtimestamp=543b8086&force_default=no)
+![Screenshot](https://downloader-spb2.disk.yandex.ru/rpreview/487d8d730656201fc6fca1379e436884/mpfs/l5t3dsnn9PymrOZQyPeKykEBSojaRiKLkl6EIqgYVgb0ROpfQxQj8qdgweboCgIqfskWCgjOhREBqqp1E7uQFQ==?uid=0&filename=howgif&disposition=inline&hash=&limit=0&content_type=image%2Fgif&size=XXL&crop=0&rtoken=b0fedf7860b91c9da1f53e395697b88b&rtimestamp=543b8086&force_default=no)<br /><br />
 
-<br />
 ### Changelog
 
 ####1.0.0
