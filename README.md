@@ -18,7 +18,6 @@ A [Brackets](https://github.com/adobe/brackets) simple extension that open Devel
 
 ![Screenshot](how.gif)
 
-
 <br />
 ### Changelog
 
