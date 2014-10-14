@@ -23,8 +23,8 @@ A [Brackets](https://github.com/adobe/brackets) extension that open Developer To
 #####1.0.2
 - Now devtools opened immediately. Limitation: works with only one active brackets window.
 
-####1.0.1
+#####1.0.1
 - Update Readme file.
 
-####1.0.0
+#####1.0.0
 - Initial release.
