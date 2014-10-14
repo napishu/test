@@ -1,6 +1,6 @@
 ## Zeal integration for Brackets
 
->A [Brackets](https://github.com/adobe/brackets) extension that adds the ability to search documentation in [Zeal](https://github.com/jkozera/zeal/) by using hotkey<br />
+>A [Brackets](https://github.com/adobe/brackets) extension that adds the ability to search documentation in [Zeal](https://github.com/jkozera/zeal/) by using hotkey.<br />
 >Requires installation of Zeal ([zealdocs.org](http://zealdocs.org/)) on your system.
 
 
