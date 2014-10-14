@@ -1,7 +1,7 @@
 ## Zeal integration for Brackets
 
->Quickly search documentation by using hotkey from [Brackets](https://github.com/adobe/brackets) in [Zeal](https://github.com/jkozera/zeal/).<br />
->Requires installation of Zeal ([zealdocs.org](http://zealdocs.org/)) on your system 
+>Quickly search documentation in [Zeal](https://github.com/jkozera/zeal/) by using hotkey from [Brackets](https://github.com/adobe/brackets) .<br />
+>Requires installation of Zeal ([zealdocs.org](http://zealdocs.org/)) on your system.
 
 
 <br/>
