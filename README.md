@@ -1,5 +1,5 @@
 
-# Developer Tools in default browser
+## Developer Tools in default browser
 
 A [Brackets](https://github.com/adobe/brackets) extension that open Developer Tools in your system default browser. 
 
