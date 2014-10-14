@@ -7,7 +7,7 @@ A [Brackets](https://github.com/adobe/brackets) extension that open Developer To
 >This is a temporary solution because we are waiting for the built-in devtools in Brackets.
 
 <br/>
-### Installation
+#### Installation
 
 * Select **File > Extension Manager...** (or click the "brick" icon in the toolbar)
 * Search for "Developer Tools in the default browser"
