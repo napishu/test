@@ -13,12 +13,12 @@ A [Brackets](https://github.com/adobe/brackets) extension that open Developer To
 * Search for "Developer Tools in the default browser"
 * Click the **Install** button<br /><br />
 
-#### How To Use
+### How To Use
 - Select **Help** > **Show Developer Tools in default browser** from main menu or use <kbd>F11</kbd> on your keyboard
 
 ![Screenshot](https://github.com/anephew/brackets-devtools-browser/blob/master/howto.gif)<br /><br />
 
-#### Changelog
+### Changelog
 
 #####1.0.2
 - Now devtools opened immediately. Limitation: works with only one active brackets window.
