@@ -16,7 +16,7 @@ A [Brackets](https://github.com/adobe/brackets) extension that open Developer To
 #### How To Use
 - Select **Help** > **Show Developer Tools in default browser** from main menu or use <kbd>F11</kbd> on your keyboard
 
-![Screenshot](howto.gif)<br /><br />
+![Screenshot](https://github.com/anephew/brackets-devtools-browser/blob/master/howto.gif)<br /><br />
 
 #### Changelog
 
