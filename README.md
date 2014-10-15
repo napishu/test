@@ -17,7 +17,5 @@ A [Brackets](https://github.com/adobe/brackets) extension that open Developer To
 
 ![Screenshot](how-to-use.gif)<br /><br /><br />
 
-
 #### Changelog
 [See](CHANGELOG.md) for details.
-
