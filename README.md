@@ -5,6 +5,7 @@
 
 ---
 
+<br/>
 #### Installation
 
 * Select **File > Extension Manager...** (or click the "brick" icon in the toolbar)
