@@ -1,8 +1,9 @@
 ## Developer Tools in default browser
 
 >A [Brackets](https://github.com/adobe/brackets) extension that open Developer Tools in your system default browser. <br/>
->It is useful if the Chrome is not your main browser or even not installed in the system. This is a temporary solution because we are waiting for the built-in devtools in Brackets. <br />
+>It is useful if the Chrome is not your main browser or even not installed in the system. This is a temporary solution because we are waiting for the built-in devtools in Brackets.
 
+<br />
 #### Installation
 
 * Select **File > Extension Manager...** (or click the "brick" icon in the toolbar)
