@@ -11,14 +11,12 @@
 * Search for "Developer Tools in default browser"
 * Click the **Install** button<br /><br />
 
----
 
 #### How To Use
 - Select **Help** > **Show Developer Tools in default browser** from main menu or use <kbd>F11</kbd> on your keyboard
 
 ![Screenshot](https://github.com/anephew/brackets-devtools-browser/raw/master/howto.gif)<br /><br />
 
----
 
 #### Changelog
 [See](CHANGELOG.md) for details.
