@@ -18,7 +18,7 @@
 
 
 #### Changelog
-See [CHANGELOG.md](CHANGELOG.md) for details.
+See [CHANGELOG.md](CHANGELOG.md) for details.<br /><br />
 
 
 #### License
