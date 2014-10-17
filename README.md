@@ -14,8 +14,11 @@
 #### How To Use
 - Select **Help** > **Show Developer Tools in default browser** from main menu or use <kbd>F11</kbd> on your keyboard
 
-![Screenshot](https://github.com/anephew/brackets-devtools-browser/raw/master/howto.gif)<br /><br />
+![Screenshot](how-to-use.gif)<br /><br />
 
 
 #### Changelog
-[See](CHANGELOG.md) for details.
+See [CHANGELOG.md](CHANGELOG.md) for details.
+
+#### License
+[The MIT License (MIT)](LICENSE)
