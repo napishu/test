@@ -1,20 +1,19 @@
-## Developer Tools in default browser
+## Zeal integration for Brackets
 
-> A [Brackets](https://github.com/adobe/brackets) extension that open Developer Tools in your system default browser. <br/>
-> It is useful if the Chrome is not your main browser or even not installed in the system. This is a temporary solution because we are waiting for the built-in devtools in Brackets.
+> A [Brackets](https://github.com/adobe/brackets) extension that allows look up the word under the current cursor or any selected text in [Zeal](http://zealdocs.org/) (simple offline api documentation browser inspired by Dash, available for Linux and Windows.)
 
 <br/>
 #### Installation
 
 * Select **File > Extension Manager...** (or click the "brick" icon in the toolbar)
-* Search for "Developer Tools in default browser"
+* Search for "Zeal integration for Brackets"
 * Click the **Install** button<br /><br />
 
 
 #### How To Use
-- Select **Help** > **Show Developer Tools in default browser** from main menu or use <kbd>F11</kbd> on your keyboard
+- Look up the word under the current cursor or any selected text by pressing <kbd>Ctrl+Shift+K</kbd>
 
-![Screenshot](how-to-use.gif)<br /><br />
+![Screenshot](screenshot.png)<br /><br />
 
 
 #### Changelog
