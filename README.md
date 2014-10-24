@@ -2,7 +2,7 @@
 
 > A [Brackets](https://github.com/adobe/brackets) extension that allows look up the word under the current cursor or any selected text in [Zeal](http://zealdocs.org/) (simple offline api documentation browser inspired by OSX app Dash, available for Linux and Windows)
 
-
+-
 #### Installation
 
 * Select **File > Extension Manager...** (or click the "brick" icon in the toolbar).
