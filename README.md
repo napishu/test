@@ -7,7 +7,7 @@
 
 * Select **File > Extension Manager...** (or click the "brick" icon in the toolbar).
 * Search for "Zeal integration for Brackets".
-* Click the **Install** button.
+* Click the **Install** button. *
 
 
 * **Windows users** : [Add](https://www.google.com/search?q=How+to+set+the+path+and+environment+variables+in+Windows) Zeal installation directory to the system "PATH" environment variable.<br /><br />
