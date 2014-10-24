@@ -9,14 +9,15 @@
 * Search for "Zeal integration for Brackets".
 * Click the **Install** button.
 
+
 * **Windows users** : [Add](https://www.google.com/search?q=How+to+set+the+path+and+environment+variables+in+Windows) Zeal installation directory to the system "PATH" environment variable.<br /><br />
 
 
 #### How To Use
-- Use <kbd>CTRL+ALT+Z</kbd> while your cursor is on a word or when you select the text.
+- Use <kbd>Ctrl+Alt+Z</kbd> while your cursor is on a word or when you select the text.
 - Right-click on a word or selected text and go "LookUp in Zeal".
 
-![Screenshot](https://pp.vk.me/c624520/v624520678/58ac/CudNCBG5BaE.jpg)<br /><br />
+![Screenshot](screenshot.png)<br /><br />
 
 
 #### Changelog
