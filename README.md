@@ -16,7 +16,12 @@
 - Use <kbd>Ctrl+Alt+Z</kbd> while your cursor is on a word or when you select the text.
 - Right-click on a word or selected text and go "LookUp in Zeal".
 
-![Screenshot](https://pp.vk.me/c624520/v624520678/58de/J_7fu0_QZWo.jpg)<br /><br />
+![Screenshot](https://pp.vk.me/c618526/v618526678/18749/XCuYFcN7Xgg.jpg)<br /><br /><br />
+
+
+#### Roadmap
+- Language mapping settings.
+- Quick Open panel for custom search<br /><br />
 
 
 #### Changelog
