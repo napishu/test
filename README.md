@@ -20,8 +20,8 @@
 
 
 #### Roadmap
-- Language mapping settings.
-- Quick Open panel for custom search<br /><br />
+- Language mapping setting.
+- Quick Open bar for custom search<br /><br />
 
 
 #### Changelog
